@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite thread-count="1" verbose="0" name="Failed suite [Surefire suite]">
+  <test thread-count="1" verbose="0" name="Surefire test(failed)">
+    <classes>
+      <class name="com.testing.framework.HomePageTest">
+        <methods>
+          <include name="close_browser"/>
+          <include name="validate_text_registor"/>
+          <include name="login_page_data" invocation-numbers="0"/>
+          <include name="init"/>
+        </methods>
+      </class> <!-- com.testing.framework.HomePageTest -->
+    </classes>
+  </test> <!-- Surefire test(failed) -->
+</suite> <!-- Failed suite [Surefire suite] -->

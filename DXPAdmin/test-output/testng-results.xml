@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="19419" started-at="2020-01-09T15:42:39Z" finished-at="2020-01-09T15:42:59Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="19419" started-at="2020-01-09T15:42:39Z" finished-at="2020-01-09T15:42:59Z">
+      <class name="com.dxp.qa.testcases.LoginTest">
+        <test-method status="PASS" signature="Signup_test_init()[pri:0, instance:com.dxp.qa.testcases.LoginTest@3abbfa04]" name="Signup_test_init" is-config="true" duration-ms="14013" started-at="2020-01-09T15:42:39Z" finished-at="2020-01-09T15:42:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Signup_test_init -->
+        <test-method status="PASS" signature="logintest()[pri:0, instance:com.dxp.qa.testcases.LoginTest@3abbfa04]" name="logintest" duration-ms="5194" started-at="2020-01-09T15:42:53Z" finished-at="2020-01-09T15:42:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintest -->
+        <test-method status="PASS" signature="CloseBrowser()[pri:0, instance:com.dxp.qa.testcases.LoginTest@3abbfa04]" name="CloseBrowser" is-config="true" duration-ms="176" started-at="2020-01-09T15:42:58Z" finished-at="2020-01-09T15:42:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+      </class> <!-- com.dxp.qa.testcases.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

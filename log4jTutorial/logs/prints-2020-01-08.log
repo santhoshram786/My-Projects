@@ -1,0 +1,9 @@
+11:19:26.863 [main] INFO  alpha.Demo - Ïnfo log
+11:19:26.865 [main] FATAL alpha.Demo - fatal error
+11:19:26.865 [main] ERROR alpha.Demo - error log 
+11:26:47.986 [main] DEBUG tests.act - Setting chrome driver property
+11:26:59.515 [main] INFO  tests.act - Window Maximized
+11:26:59.517 [main] DEBUG tests.act - Now hitting Amazon server
+11:27:06.138 [main] INFO  tests.act - Landed on amazon home page
+11:27:13.337 [main] DEBUG tests.act - Getting the frames count
+11:27:13.608 [main] INFO  tests.act - Frames count retreived
